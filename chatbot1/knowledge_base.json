@@ -1,0 +1,52 @@
+{
+  "questions": [
+    {
+      "question": "What is the capital of France?",
+      "answer": "Paris"
+    },
+    {
+      "question": "hey",
+      "answer": "Hello"
+    },
+    {
+      "question": "hello",
+      "answer": "hey "
+    },
+    {
+      "question": "Hi",
+      "answer": "hello, how are you?"
+    },
+    {
+      "question": "how are you",
+      "answer": "Im fine , what about you?"
+    },
+    {
+      "question": "im fine too",
+      "answer": "Thats good yo hear"
+    },
+    {
+      "question": "What are you good at?",
+      "answer": "Well, i can just give answers to the questions that I'm already taught.I cant generate answers of my own"
+    },
+    {
+      "question": "Im good",
+      "answer": "Thats nice "
+    },
+    {
+      "question": "whats the capital of india?",
+      "answer": "Dehli"
+    },
+    {
+      "question": "hi",
+      "answer": "Hello,How are you?"
+    },
+    {
+      "question": "Whats my name?",
+      "answer": "Its Aryan"
+    },
+    {
+      "question": "Do you know me?",
+      "answer": "Yes, you are Aryan .."
+    }
+  ]
+}
